@@ -9,7 +9,8 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="#" className="logo">
+      {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+      <a href="/" className="logo">
         <span>www.adarsh</span>
         <span>mishra.com</span>
       </a>
