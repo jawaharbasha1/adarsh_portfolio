@@ -24,7 +24,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Priyanshu, an enthusiastic Software Engineer skilled in web development, Full Stack Development, and scalable software solutions
+            Hi there! I'm Adarsh, an enthusiastic Software Engineer skilled in web development, Full Stack Development, and scalable software solutions
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
@@ -108,7 +108,7 @@ export function About() {
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.21 * 1000}>
-          <img src={priyanshuProfile} alt="Priyanshu Pandey" />
+          <img src={priyanshuProfile} alt="Adarsh Mishra" />
         </ScrollAnimation>
       </div>
     </Container>
